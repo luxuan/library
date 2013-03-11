@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewLib_2", "NewLib_2\NewLib_2.vcproj", "{63BEBF91-1413-4264-83C6-509C507252AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BEBF91-1413-4264-83C6-509C507252AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63BEBF91-1413-4264-83C6-509C507252AE}.Debug|Win32.Build.0 = Debug|Win32
+		{63BEBF91-1413-4264-83C6-509C507252AE}.Release|Win32.ActiveCfg = Release|Win32
+		{63BEBF91-1413-4264-83C6-509C507252AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
